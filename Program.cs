@@ -22,3 +22,5 @@ void NaturaNumbers(int n, int count)
         Console.Write(count + " ");
     }
 }
+
+
